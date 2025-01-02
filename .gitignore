@@ -1,0 +1,6 @@
+# Exclude application.properties and the PDF file
+application.properties
+src/main/resources/Anubhav_Mishra-5+Years_Java_Backend_Developer_(Spring-Boot,Microservices).pdf
+
+# Exclude target directory
+target/

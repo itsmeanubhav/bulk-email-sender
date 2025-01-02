@@ -1,0 +1,3 @@
+targetEmail1@gmail.com
+targetEmail2@gmail.com
+targetEmail3@gmail.com
